@@ -1,0 +1,6 @@
+train: '/content/datasets/person_dataset/train/images'
+val: '/content/datasets/person_dataset/valid/images'
+test: '/content/datasets/person_dataset/test/images'
+
+nc: 1
+names: ['person']
